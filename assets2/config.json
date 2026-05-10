@@ -1,24 +1,19 @@
 {
   "photos": [
-    {
-      "filename": "photo1.jpg",
-      "caption": "Recuerdo 1"
-    },
-    {
-      "filename": "photo2.jpg",
-      "caption": "Recuerdo 2"
-    },
-    {
-      "filename": "photo3.jpg",
-      "caption": "Recuerdo 3"
-    },
-    {
-      "filename": "photo4.jpg",
-      "caption": "Recuerdo 4"
-    },
-    {
-      "filename": "photo5.jpg",
-      "caption": "Recuerdo 5"
-    }
+    {"filename": "photo1.jpeg", "caption": "Foto 1"},
+    {"filename": "photo2.jpeg", "caption": "Foto 2"},
+    {"filename": "photo3.jpeg", "caption": "Foto 3"},
+    {"filename": "photo4.jpeg", "caption": "Foto 4"},
+    {"filename": "photo5.jpeg", "caption": "Foto 5"},
+    {"filename": "photo6.jpeg", "caption": "Foto 6"},
+    {"filename": "photo7.jpeg", "caption": "Foto 7"},
+    {"filename": "photo8.jpeg", "caption": "Foto 8"},
+    {"filename": "photo9.jpeg", "caption": "Foto 9"},
+    {"filename": "photo10.jpeg", "caption": "Foto 10"},
+    {"filename": "photo11.jpeg", "caption": "Foto 11"},
+    {"filename": "photo12.jpeg", "caption": "Foto 12"},
+    {"filename": "photo13.jpeg", "caption": "Foto 13"},
+    {"filename": "photo14.jpeg", "caption": "Foto 14"},
+    {"filename": "photo15.jpeg", "caption": "Foto 15"}
   ]
 }
