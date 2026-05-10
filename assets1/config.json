@@ -1,36 +1,23 @@
 {
   "photos": [
-    {
-      "filename": "photo1.jpg",
-      "caption": "Momentos especiales"
-    },
-    {
-      "filename": "photo2.jpg",
-      "caption": "Amor infinito"
-    },
-    {
-      "filename": "photo3.jpg",
-      "caption": "Recuerdos felices"
-    },
-    {
-      "filename": "photo4.jpg",
-      "caption": "Familia"
-    },
-    {
-      "filename": "photo5.jpg",
-      "caption": "Sonrisas"
-    },
-    {
-      "filename": "photo6.jpg",
-      "caption": "Alegría"
-    },
-    {
-      "filename": "photo7.jpg",
-      "caption": "Juntos"
-    },
-    {
-      "filename": "photo8.jpg",
-      "caption": "Amor"
-    }
+    {"filename": "photo1.jpeg", "caption": "Foto 1"},
+    {"filename": "photo2.jpeg", "caption": "Foto 2"},
+    {"filename": "photo3.jpeg", "caption": "Foto 3"},
+    {"filename": "photo4.jpeg", "caption": "Foto 4"},
+    {"filename": "photo5.jpeg", "caption": "Foto 5"},
+    {"filename": "photo6.jpeg", "caption": "Foto 6"},
+    {"filename": "photo7.jpeg", "caption": "Foto 7"},
+    {"filename": "photo8.jpeg", "caption": "Foto 8"},
+    {"filename": "photo9.jpeg", "caption": "Foto 9"},
+    {"filename": "photo10.jpeg", "caption": "Foto 10"},
+    {"filename": "photo11.jpeg", "caption": "Foto 11"},
+    {"filename": "photo12.jpeg", "caption": "Foto 12"},
+    {"filename": "photo13.jpeg", "caption": "Foto 13"},
+    {"filename": "photo14.jpeg", "caption": "Foto 14"},
+    {"filename": "photo15.jpeg", "caption": "Foto 15"},
+    {"filename": "photo16.jpeg", "caption": "Foto 16"},
+    {"filename": "photo17.jpeg", "caption": "Foto 17"},
+    {"filename": "photo18.jpeg", "caption": "Foto 18"},
+    {"filename": "photo19.jpeg", "caption": "Foto 19"}
   ]
 }
