@@ -1,0 +1,24 @@
+{
+  "photos": [
+    {
+      "filename": "photo1.jpg",
+      "caption": "Recuerdo 1"
+    },
+    {
+      "filename": "photo2.jpg",
+      "caption": "Recuerdo 2"
+    },
+    {
+      "filename": "photo3.jpg",
+      "caption": "Recuerdo 3"
+    },
+    {
+      "filename": "photo4.jpg",
+      "caption": "Recuerdo 4"
+    },
+    {
+      "filename": "photo5.jpg",
+      "caption": "Recuerdo 5"
+    }
+  ]
+}

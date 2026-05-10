@@ -1,0 +1,36 @@
+{
+  "photos": [
+    {
+      "filename": "photo1.jpg",
+      "caption": "Momentos especiales"
+    },
+    {
+      "filename": "photo2.jpg",
+      "caption": "Amor infinito"
+    },
+    {
+      "filename": "photo3.jpg",
+      "caption": "Recuerdos felices"
+    },
+    {
+      "filename": "photo4.jpg",
+      "caption": "Familia"
+    },
+    {
+      "filename": "photo5.jpg",
+      "caption": "Sonrisas"
+    },
+    {
+      "filename": "photo6.jpg",
+      "caption": "Alegría"
+    },
+    {
+      "filename": "photo7.jpg",
+      "caption": "Juntos"
+    },
+    {
+      "filename": "photo8.jpg",
+      "caption": "Amor"
+    }
+  ]
+}
