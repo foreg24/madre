@@ -428,7 +428,7 @@ class MothersDayApp {
   }
 
   async autoDetectPhotos(assetsPath) {
-    const extensions  = ['.jpg', '.jpeg', '.png', '.webp', '.gif'];
+    const extensions  = ['.jpeg', '.jpg', '.png', '.webp', '.gif'];
     const maxPhotos   = 50;
     const foundPhotos = [];
 
